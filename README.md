@@ -1,4 +1,4 @@
-Hi there 👋, I’m @harsh-baranwal
+### Hi there 👋, I’m @harsh-baranwal
 - 👀 I’m interested in WebDev & Graphic Designing.
 - 🌱 I’m currently learning Full Stack Development.
 - 💞️ I’m looking to collaborate on any interesting ideas.
