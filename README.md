@@ -2,7 +2,6 @@
 - 👀 I’m interested in WebDev & Graphic Designing.
 - 🌱 I’m currently learning Full Stack Development.
 - 💞️ I’m looking to collaborate on any interesting ideas.
-- 📫 Reach me at harshbaranwalofficial@gmail.com
 
 <!--- 
 harsh-baranwal/harsh-baranwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
